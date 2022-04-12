@@ -1,0 +1,7 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="nav-btn">
+<rect id="b-line" x="5" y="28" width="30" height="4" rx="2" fill="white"/>
+<rect id="c-line" x="5" y="18" width="30" height="4" rx="2" fill="white"/>
+<rect id="t-line" x="5" y="8" width="30" height="4" rx="2" fill="white"/>
+</g>
+</svg>
